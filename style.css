@@ -91,6 +91,14 @@ h3 {
     text-align: left;
 }
 
+.shop {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
 .box {
     background-color: transparent;
     border: none;
